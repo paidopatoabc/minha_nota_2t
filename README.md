@@ -1,2 +1,2 @@
 # minha_nota_2t
-aluno: Breno Rafael Vendxrametto n° 06
+aluno: Breno Rafael Vendrametto n° 06
